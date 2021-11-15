@@ -2,7 +2,7 @@
     "type": "ThemeStyle",
     "h1": {
         "weight": "bold",
-        "decoration": "underline",
+        "decoration": "line-through",
         "case": "capitalize",
         "letterSpacing": "normal"
     },
